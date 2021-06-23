@@ -137,12 +137,18 @@ for num in range(100, 1000):
 """
 
 
+num = int(input('num = '))
+reversed_num = 0
+while num > 0:
+    reversed_num = reversed_num * 10 + num % 10
+    num = num// 10
+print(reversed_num)
 
 
 
 
-
-
+#  练习：
+# https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/05.%E6%9E%84%E9%80%A0%E7%A8%8B%E5%BA%8F%E9%80%BB%E8%BE%91.md
 
 
 
