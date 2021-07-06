@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6505c929-96de-47d3-9e75-e480610b4187" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SELENIUM__project/说明.md" beforeDir="false" afterPath="$PROJECT_DIR$/SELENIUM__project/说明.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,14 +12,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/g_practice$test_2.coverage" NAME="test_2 Coverage Results" MODIFIED="1625191206622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_4" />
+    <SUITE FILE_PATH="coverage/g_practice$logger__1_.coverage" NAME="logger (1) Coverage Results" MODIFIED="1625563809768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/g_practice$get_time.coverage" NAME="get_time Coverage Results" MODIFIED="1624437461274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_2" />
+    <SUITE FILE_PATH="coverage/g_practice$test_1.coverage" NAME="test_1 Coverage Results" MODIFIED="1625144254280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_4" />
+    <SUITE FILE_PATH="coverage/g_practice$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1624501210447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_3" />
+    <SUITE FILE_PATH="coverage/g_practice$test_log.coverage" NAME="test_log Coverage Results" MODIFIED="1625484150022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_4" />
+    <SUITE FILE_PATH="coverage/g_practice$test_1__1_.coverage" NAME="test_1 (1) Coverage Results" MODIFIED="1625573507371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/g_practice$test_002.coverage" NAME="test_002 Coverage Results" MODIFIED="1624413514395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MODULE/MOD_configparser" />
     <SUITE FILE_PATH="coverage/g_practice$test_02.coverage" NAME="test_02 Coverage Results" MODIFIED="1624453285731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project" />
-    <SUITE FILE_PATH="coverage/g_practice$get_time.coverage" NAME="get_time Coverage Results" MODIFIED="1624437461274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_2" />
+    <SUITE FILE_PATH="coverage/g_practice$a.coverage" NAME="a Coverage Results" MODIFIED="1625484993064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/g_practice$logger.coverage" NAME="logger Coverage Results" MODIFIED="1625484291667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_4" />
     <SUITE FILE_PATH="coverage/g_practice$test_001.coverage" NAME="test_001 Coverage Results" MODIFIED="1624327044159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY1_15" />
-    <SUITE FILE_PATH="coverage/g_practice$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1624501210447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_3" />
     <SUITE FILE_PATH="coverage/g_practice$test_001__2_.coverage" NAME="test_001 (2) Coverage Results" MODIFIED="1624366991285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MODULE/MOD_configparser" />
     <SUITE FILE_PATH="coverage/g_practice$test_001__1_.coverage" NAME="test_001 (1) Coverage Results" MODIFIED="1624433731553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_1/dricver" />
     <SUITE FILE_PATH="coverage/g_practice$test002.coverage" NAME="test002 Coverage Results" MODIFIED="1624352909833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_1" />
+    <SUITE FILE_PATH="coverage/g_practice$test.coverage" NAME="test Coverage Results" MODIFIED="1625484572895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/g_practice$Test_001.coverage" NAME="Test_001 Coverage Results" MODIFIED="1624449716997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MODULE/MOD_time" />
     <SUITE FILE_PATH="coverage/g_practice$test009.coverage" NAME="test009 Coverage Results" MODIFIED="1624501515245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project" />
   </component>
@@ -27,14 +36,16 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ini" value="3" />
-          <entry key="md" value="3" />
-          <entry key="py" value="17" />
+          <entry key="log" value="8" />
+          <entry key="md" value="4" />
+          <entry key="py" value="29" />
           <entry key="pyi" value="1" />
           <entry key="txt" value="1" />
         </counts>
@@ -42,35 +53,94 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Ini" value="3" />
-          <entry key="Markdown" value="3" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="17" />
+          <entry key="Markdown" value="4" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="29" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="dummy" value="2" />
           <entry key="ini" value="67" />
-          <entry key="md" value="50" />
-          <entry key="py" value="1354" />
+          <entry key="md" value="53" />
+          <entry key="py" value="2578" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Ini" value="67" />
-          <entry key="Markdown" value="50" />
-          <entry key="Python" value="1354" />
+          <entry key="Markdown" value="53" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="2578" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MODULE/MOD_time/Test_001.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SELENIUM__project/说明.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="162">
+                <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/test_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="243">
+              <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/test_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/test.log">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/logger.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1625571245397" expanded="true" signature="81:852" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/test_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/Logs/202107062011.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -83,6 +153,16 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Logging</find>
+      <find>getattr</find>
+      <find>get</find>
+      <find>logger</find>
+      <find>debug</find>
+      <find>basicConfig</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,10 +179,18 @@
         <option value="$PROJECT_DIR$/SELENIUM__project/Test_1/dricver/test_001.py" />
         <option value="$PROJECT_DIR$/SELENIUM__project/Test_2/get_time.py" />
         <option value="$PROJECT_DIR$/MODULE/MOD_time/Test_001.py" />
-        <option value="$PROJECT_DIR$/SELENIUM__project/说明.md" />
         <option value="$PROJECT_DIR$/SELENIUM__project/test_02.py" />
         <option value="$PROJECT_DIR$/SELENIUM__project/Test_3/test_01.py" />
         <option value="$PROJECT_DIR$/SELENIUM__project/test009.py" />
+        <option value="$PROJECT_DIR$/SELENIUM__project/说明.md" />
+        <option value="$PROJECT_DIR$/SELENIUM__project/Test_4/test_2.py" />
+        <option value="$PROJECT_DIR$/SELENIUM__project/Test_4/test_1.py" />
+        <option value="$PROJECT_DIR$/SELENIUM__project/Test_4/test_log.py" />
+        <option value="$PROJECT_DIR$/test/test.py" />
+        <option value="$PROJECT_DIR$/test/a.py" />
+        <option value="$PROJECT_DIR$/SELENIUM__project/Test_4/logger.py" />
+        <option value="$PROJECT_DIR$/test/logger.py" />
+        <option value="$PROJECT_DIR$/test/test_1.py" />
       </list>
     </option>
   </component>
@@ -113,10 +201,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="809" />
-    <option name="y" value="87" />
-    <option name="width" value="1771" />
-    <option name="height" value="1257" />
+    <option name="x" value="536" />
+    <option name="y" value="109" />
+    <option name="width" value="2007" />
+    <option name="height" value="1254" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -126,7 +214,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,23 +224,18 @@
             <path>
               <item name="g_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="g_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="MODULE" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="g_practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="g_practice" type="462c0819:PsiDirectoryNode" />
               <item name="SELENIUM__project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="g_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="g_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="SELENIUM__project" type="462c0819:PsiDirectoryNode" />
-              <item name="Test_3" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,8 +257,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test009">
-    <configuration name="Test_001" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test_1 (1)">
+    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="g_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,12 +266,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MODULE/MOD_time" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MODULE/MOD_time/Test_001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +280,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_time" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="logger (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="g_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,12 +288,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SELENIUM__project/Test_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SELENIUM__project/Test_2/get_time.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/logger.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,7 +302,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test009" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="logger" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="g_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,12 +310,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SELENIUM__project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SELENIUM__project/Test_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SELENIUM__project/test009.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SELENIUM__project/Test_4/logger.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,7 +324,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="g_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,12 +332,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SELENIUM__project/Test_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SELENIUM__project/Test_3/test_01.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\yunxi\Desktop\g_practice\test\test_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,7 +346,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="g_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,12 +354,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SELENIUM__project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SELENIUM__project/test_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,19 +369,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.get_time" />
-      <item itemvalue="Python.Test_001" />
-      <item itemvalue="Python.test_01" />
-      <item itemvalue="Python.test_02" />
-      <item itemvalue="Python.test009" />
+      <item itemvalue="Python.logger" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.test_1 (1)" />
+      <item itemvalue="Python.logger (1)" />
+      <item itemvalue="Python.a" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test009" />
-        <item itemvalue="Python.test_01" />
-        <item itemvalue="Python.test_02" />
-        <item itemvalue="Python.Test_001" />
-        <item itemvalue="Python.get_time" />
+        <item itemvalue="Python.test_1 (1)" />
+        <item itemvalue="Python.logger (1)" />
+        <item itemvalue="Python.a" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.logger" />
       </list>
     </recent_temporary>
   </component>
@@ -317,57 +399,37 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="809" y="87" width="1771" height="1257" extended-state="1" />
+    <frame x="536" y="109" width="2007" height="1254" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24956165" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1155624" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31789848" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39926064" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31607142" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27478755" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24956165" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="5" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.31789848" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.39926064" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="SciView" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -387,31 +449,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SELENIUM_project/aaa.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_1/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_1/test002.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/SELENIUM_project/aaa.md" />
+    <entry file="file://$PROJECT_DIR$/readme.txt" />
+    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_1/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_1/test002.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/configparser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -437,9 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -461,9 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" selection-start-line="1" selection-end-line="7" />
-          <folding>
-            <element signature="e#146#165#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -502,20 +537,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SELENIUM__project/test_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SELENIUM__project/test009.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/SELENIUM__project/test_02.py" />
+    <entry file="file://$PROJECT_DIR$/SELENIUM__project/test009.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/remote/webelement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
@@ -527,27 +550,143 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="33" column="71" lean-forward="true" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MODULE/MOD_time/Test_001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="1775" column="52" selection-start-line="1775" selection-start-column="52" selection-end-line="1775" selection-end-column="52" />
           <folding>
-            <element signature="e#534#545#0" expanded="true" />
-            <marker date="1624501326663" expanded="true" signature="628:928" ph="..." />
+            <element signature="e#1189#1256#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1507742826/nt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="211" column="11" selection-start-line="211" selection-end-line="212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test11.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Logs/202107052055.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Logs/202107061934.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Logs/202107061941.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="47" selection-start-column="47" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Logs/202107061942.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/test.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/test_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Logs/202107062011.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="19" selection-start-line="19" selection-end-line="24" selection-end-column="33" />
+          <folding>
+            <element signature="e#48#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/test_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SELENIUM__project/说明.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="108">
-            <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <first_editor relative-caret-position="162">
+            <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MODULE/MOD_time/Test_001.py">
+    <entry file="file://$PROJECT_DIR$/test/logger.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="362">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1625571245397" expanded="true" signature="81:852" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="46" />
         </state>
       </provider>
     </entry>
