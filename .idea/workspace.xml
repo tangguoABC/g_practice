@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6505c929-96de-47d3-9e75-e480610b4187" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SELENIUM__project/说明.md" beforeDir="false" afterPath="$PROJECT_DIR$/SELENIUM__project/说明.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MODULE/MOD_configparser/test_002.py" beforeDir="false" afterPath="$PROJECT_DIR$/MODULE/MOD_configparser/test_002.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,135 +13,110 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/g_practice$test_2.coverage" NAME="test_2 Coverage Results" MODIFIED="1625191206622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_4" />
-    <SUITE FILE_PATH="coverage/g_practice$logger__1_.coverage" NAME="logger (1) Coverage Results" MODIFIED="1625563809768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/g_practice$get_time.coverage" NAME="get_time Coverage Results" MODIFIED="1624437461274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_2" />
-    <SUITE FILE_PATH="coverage/g_practice$test_1.coverage" NAME="test_1 Coverage Results" MODIFIED="1625144254280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_4" />
+    <SUITE FILE_PATH="coverage/g_practice$Unittests_in_test_1_py.coverage" NAME="Unittests in test_1.py Coverage Results" MODIFIED="1626266938616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
+    <SUITE FILE_PATH="coverage/g_practice$Unittests_in_test_3_py.coverage" NAME="Unittests in test_3.py Coverage Results" MODIFIED="1626675261473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
+    <SUITE FILE_PATH="coverage/g_practice$test_1.coverage" NAME="test_1 Coverage Results" MODIFIED="1626762245550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/g_practice$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1624501210447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_3" />
-    <SUITE FILE_PATH="coverage/g_practice$test_log.coverage" NAME="test_log Coverage Results" MODIFIED="1625484150022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_4" />
-    <SUITE FILE_PATH="coverage/g_practice$test_1__1_.coverage" NAME="test_1 (1) Coverage Results" MODIFIED="1625573507371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/g_practice$test_002.coverage" NAME="test_002 Coverage Results" MODIFIED="1624413514395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MODULE/MOD_configparser" />
+    <SUITE FILE_PATH="coverage/g_practice$Unittests_in_test_2_py.coverage" NAME="Unittests in test_2.py Coverage Results" MODIFIED="1626666650503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
+    <SUITE FILE_PATH="coverage/g_practice$Unittests_in_test_4_py.coverage" NAME="Unittests in test_4.py Coverage Results" MODIFIED="1626678965192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
+    <SUITE FILE_PATH="coverage/g_practice$aa.coverage" NAME="aa Coverage Results" MODIFIED="1632659851266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/YUNXI_mix" />
     <SUITE FILE_PATH="coverage/g_practice$test_02.coverage" NAME="test_02 Coverage Results" MODIFIED="1624453285731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project" />
     <SUITE FILE_PATH="coverage/g_practice$a.coverage" NAME="a Coverage Results" MODIFIED="1625484993064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/g_practice$logger.coverage" NAME="logger Coverage Results" MODIFIED="1625484291667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_4" />
+    <SUITE FILE_PATH="coverage/g_practice$KS.coverage" NAME="KS Coverage Results" MODIFIED="1632396594686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/YUNXI_mix" />
+    <SUITE FILE_PATH="coverage/g_practice$logger.coverage" NAME="logger Coverage Results" MODIFIED="1626753483338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Automation_demo/framework" />
+    <SUITE FILE_PATH="coverage/g_practice$Unittests_for_test_3_TestCase_2.coverage" NAME="Unittests for test_3.TestCase_2 Coverage Results" MODIFIED="1626675204356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
     <SUITE FILE_PATH="coverage/g_practice$test_001.coverage" NAME="test_001 Coverage Results" MODIFIED="1624327044159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DAY1_15" />
-    <SUITE FILE_PATH="coverage/g_practice$test_001__2_.coverage" NAME="test_001 (2) Coverage Results" MODIFIED="1624366991285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MODULE/MOD_configparser" />
     <SUITE FILE_PATH="coverage/g_practice$test_001__1_.coverage" NAME="test_001 (1) Coverage Results" MODIFIED="1624433731553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_1/dricver" />
+    <SUITE FILE_PATH="coverage/g_practice$bbb.coverage" NAME="bbb Coverage Results" MODIFIED="1632659750267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/YUNXI_mix" />
+    <SUITE FILE_PATH="coverage/g_practice$test009.coverage" NAME="test009 Coverage Results" MODIFIED="1624501515245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project" />
+    <SUITE FILE_PATH="coverage/g_practice$test_2.coverage" NAME="test_2 Coverage Results" MODIFIED="1625191206622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_4" />
+    <SUITE FILE_PATH="coverage/g_practice$practice_2.coverage" NAME="practice_2 Coverage Results" MODIFIED="1629699923107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
+    <SUITE FILE_PATH="coverage/g_practice$practice_001.coverage" NAME="practice_001 Coverage Results" MODIFIED="1631189307791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice" />
+    <SUITE FILE_PATH="coverage/g_practice$logger__1_.coverage" NAME="logger (1) Coverage Results" MODIFIED="1625563809768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/g_practice$browser_engine.coverage" NAME="browser_engine Coverage Results" MODIFIED="1626782072102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Automation_demo/framework" />
+    <SUITE FILE_PATH="coverage/g_practice$Unittests_for_test_1_Mytest.coverage" NAME="Unittests for test_1.Mytest Coverage Results" MODIFIED="1626267022412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
+    <SUITE FILE_PATH="coverage/g_practice$get_time.coverage" NAME="get_time Coverage Results" MODIFIED="1624437461274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_2" />
+    <SUITE FILE_PATH="coverage/g_practice$Unittests_for_baidu_search_BaiduSearch_test_baidu_search.coverage" NAME="Unittests for baidu_search.BaiduSearch.test_baidu_search Coverage Results" MODIFIED="1626782230046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Automation_demo/testsuites" />
+    <SUITE FILE_PATH="coverage/g_practice$test_log.coverage" NAME="test_log Coverage Results" MODIFIED="1625484150022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_4" />
+    <SUITE FILE_PATH="coverage/g_practice$test_1__1_.coverage" NAME="test_1 (1) Coverage Results" MODIFIED="1625573507371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/g_practice$test_002.coverage" NAME="test_002 Coverage Results" MODIFIED="1626781406259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MODULE/MOD_configparser" />
+    <SUITE FILE_PATH="coverage/g_practice$Unittests_for_test_1_Mytest_test_a.coverage" NAME="Unittests for test_1.Mytest.test_a Coverage Results" MODIFIED="1626266781751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
+    <SUITE FILE_PATH="coverage/g_practice$XHS.coverage" NAME="XHS Coverage Results" MODIFIED="1632396684563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/YUNXI_mix" />
+    <SUITE FILE_PATH="coverage/g_practice$test_001__2_.coverage" NAME="test_001 (2) Coverage Results" MODIFIED="1624366991285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MODULE/MOD_configparser" />
+    <SUITE FILE_PATH="coverage/g_practice$Unittests_for_test_4_demoTest_test_1.coverage" NAME="Unittests for test_4.demoTest.test_1 Coverage Results" MODIFIED="1626678520224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unit_test" />
     <SUITE FILE_PATH="coverage/g_practice$test002.coverage" NAME="test002 Coverage Results" MODIFIED="1624352909833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project/Test_1" />
     <SUITE FILE_PATH="coverage/g_practice$test.coverage" NAME="test Coverage Results" MODIFIED="1625484572895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/g_practice$baidu_home_1.coverage" NAME="baidu_home_1 Coverage Results" MODIFIED="1626762309634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Automation_demo/pageobjects" />
     <SUITE FILE_PATH="coverage/g_practice$Test_001.coverage" NAME="Test_001 Coverage Results" MODIFIED="1624449716997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MODULE/MOD_time" />
-    <SUITE FILE_PATH="coverage/g_practice$test009.coverage" NAME="test009 Coverage Results" MODIFIED="1624501515245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SELENIUM__project" />
+    <SUITE FILE_PATH="coverage/g_practice$taobo.coverage" NAME="taobo Coverage Results" MODIFIED="1632313600202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/YUNXI_mix" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1166193899">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ini" value="3" />
-          <entry key="log" value="8" />
-          <entry key="md" value="4" />
-          <entry key="py" value="29" />
+          <entry key="ini" value="7" />
+          <entry key="log" value="26" />
+          <entry key="md" value="5" />
+          <entry key="py" value="72" />
           <entry key="pyi" value="1" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Ini" value="3" />
-          <entry key="Markdown" value="4" />
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="29" />
+          <entry key="Ini" value="7" />
+          <entry key="Markdown" value="5" />
+          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="Python" value="72" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="2" />
-          <entry key="ini" value="67" />
-          <entry key="md" value="53" />
-          <entry key="py" value="2578" />
+          <entry key="dummy" value="23" />
+          <entry key="ini" value="72" />
+          <entry key="md" value="56" />
+          <entry key="py" value="5604" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Ini" value="67" />
-          <entry key="Markdown" value="53" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="2578" />
+          <entry key="Ini" value="72" />
+          <entry key="Markdown" value="56" />
+          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="Python" value="5604" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SELENIUM__project/说明.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="162">
-                <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/test_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/test_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/test.log">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/logger.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-                <marker date="1625571245397" expanded="true" signature="81:852" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/test_1.py">
+        <entry file="file://$PROJECT_DIR$/YUNXI_mix/aa.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="46" />
+            <state relative-caret-position="54">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/Logs/202107062011.log">
+        <entry file="file://$PROJECT_DIR$/YUNXI_mix/bbb.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="81">
+              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -162,6 +138,7 @@
       <find>logger</find>
       <find>debug</find>
       <find>basicConfig</find>
+      <find>system</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -174,7 +151,6 @@
         <option value="$PROJECT_DIR$/SELENIUM__project/Test_1/test002.py" />
         <option value="$PROJECT_DIR$/MODULE/MOD_configparser/test.ini" />
         <option value="$PROJECT_DIR$/MODULE/MOD_configparser/test_001.py" />
-        <option value="$PROJECT_DIR$/MODULE/MOD_configparser/test_002.py" />
         <option value="$PROJECT_DIR$/SELENIUM__project/Test_1/config/config.ini" />
         <option value="$PROJECT_DIR$/SELENIUM__project/Test_1/dricver/test_001.py" />
         <option value="$PROJECT_DIR$/SELENIUM__project/Test_2/get_time.py" />
@@ -191,6 +167,27 @@
         <option value="$PROJECT_DIR$/SELENIUM__project/Test_4/logger.py" />
         <option value="$PROJECT_DIR$/test/logger.py" />
         <option value="$PROJECT_DIR$/test/test_1.py" />
+        <option value="$PROJECT_DIR$/test/basePage.py" />
+        <option value="$PROJECT_DIR$/test/test_2.py" />
+        <option value="$PROJECT_DIR$/unit_test/unittest_test.md" />
+        <option value="$PROJECT_DIR$/unit_test/test_1.py" />
+        <option value="$PROJECT_DIR$/unit_test/test_3.py" />
+        <option value="$PROJECT_DIR$/unit_test/test_2.py" />
+        <option value="$PROJECT_DIR$/unit_test/test_4.py" />
+        <option value="$PROJECT_DIR$/Automation_demo/framework/logger.py" />
+        <option value="$PROJECT_DIR$/Automation_demo/pageobjects/baidu_home_1.py" />
+        <option value="$PROJECT_DIR$/MODULE/MOD_configparser/test_002.py" />
+        <option value="$PROJECT_DIR$/Automation_demo/config/config.ini" />
+        <option value="$PROJECT_DIR$/Automation_demo/testsuites/baidu_search.py" />
+        <option value="$PROJECT_DIR$/Automation_demo/framework/browser_engine.py" />
+        <option value="$PROJECT_DIR$/Automation_demo/framework/base_page.py" />
+        <option value="$PROJECT_DIR$/Practice/practice_2.py" />
+        <option value="$PROJECT_DIR$/Practice/practice_001.py" />
+        <option value="$PROJECT_DIR$/YUNXI_mix/taobo.py" />
+        <option value="$PROJECT_DIR$/YUNXI_mix/KS.py" />
+        <option value="$PROJECT_DIR$/YUNXI_mix/XHS.py" />
+        <option value="$PROJECT_DIR$/YUNXI_mix/bbb.py" />
+        <option value="$PROJECT_DIR$/YUNXI_mix/aa.py" />
       </list>
     </option>
   </component>
@@ -201,10 +198,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="536" />
-    <option name="y" value="109" />
-    <option name="width" value="2007" />
-    <option name="height" value="1254" />
+    <option name="x" value="323" />
+    <option name="y" value="577" />
+    <option name="width" value="1478" />
+    <option name="height" value="935" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -214,6 +211,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -224,18 +222,12 @@
             <path>
               <item name="g_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="g_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="SELENIUM__project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="g_practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="g_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="YUNXI_mix" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,8 +249,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_1 (1)">
-    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.aa">
+    <configuration name="KS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="g_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,12 +258,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/YUNXI_mix" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YUNXI_mix/KS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,7 +272,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="logger (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="XHS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="g_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,12 +280,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/YUNXI_mix" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/logger.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YUNXI_mix/XHS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="logger" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="aa" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="g_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -310,12 +302,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SELENIUM__project/Test_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/YUNXI_mix" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SELENIUM__project/Test_4/logger.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YUNXI_mix/aa.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,7 +316,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bbb" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="g_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -332,12 +324,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/YUNXI_mix" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\yunxi\Desktop\g_practice\test\test_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YUNXI_mix/bbb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -346,7 +338,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="taobo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="g_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -354,12 +346,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/YUNXI_mix" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\yunxi\Desktop\g_practice\YUNXI_mix\XHS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -369,19 +361,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.logger" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.test_1 (1)" />
-      <item itemvalue="Python.logger (1)" />
-      <item itemvalue="Python.a" />
+      <item itemvalue="Python.taobo" />
+      <item itemvalue="Python.XHS" />
+      <item itemvalue="Python.KS" />
+      <item itemvalue="Python.aa" />
+      <item itemvalue="Python.bbb" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_1 (1)" />
-        <item itemvalue="Python.logger (1)" />
-        <item itemvalue="Python.a" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.logger" />
+        <item itemvalue="Python.aa" />
+        <item itemvalue="Python.bbb" />
+        <item itemvalue="Python.XHS" />
+        <item itemvalue="Python.KS" />
+        <item itemvalue="Python.taobo" />
       </list>
     </recent_temporary>
   </component>
@@ -398,16 +390,48 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_3_TestCase_2 - 2021.07.19 at 14h 13m 24s.xml">
+      <configuration name="Unittests for test_3.TestCase_2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_3_py - 2021.07.19 at 14h 13m 47s.xml">
+      <configuration name="Unittests in test_3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_3_py - 2021.07.19 at 14h 14m 21s.xml">
+      <configuration name="Unittests in test_3.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_4_demoTest_test_1 - 2021.07.19 at 14h 59m 11s.xml">
+      <configuration name="Unittests for test_4.demoTest.test_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_4_py - 2021.07.19 at 14h 59m 20s.xml">
+      <configuration name="Unittests in test_4.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_4_py - 2021.07.19 at 15h 04m 16s.xml">
+      <configuration name="Unittests in test_4.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_4_demoTest_test_1 - 2021.07.19 at 15h 04m 25s.xml">
+      <configuration name="Unittests for test_4.demoTest.test_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_4_demoTest_test_1 - 2021.07.19 at 15h 08m 40s.xml">
+      <configuration name="Unittests for test_4.demoTest.test_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_4_py - 2021.07.19 at 15h 16m 05s.xml">
+      <configuration name="Unittests in test_4.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_baidu_search_BaiduSearch_test_baidu_search - 2021.07.20 at 19h 57m 17s.xml">
+      <configuration name="Unittests for baidu_search.BaiduSearch.test_baidu_search" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="536" y="109" width="2007" height="1254" extended-state="0" />
+    <frame x="777" y="554" width="1476" height="934" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1155624" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13912429" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31607142" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.33183452" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36375" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27478755" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -424,6 +448,29 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15821727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.33183452" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27478755" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -434,234 +481,22 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MODULE/MOD_configparser/test_002.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="331" selection-start-line="331" selection-end-line="331" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="786" selection-start-line="786" selection-end-line="786" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SELENIUM_project/aaa.md" />
-    <entry file="file://$PROJECT_DIR$/readme.txt" />
-    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_1/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_1/test002.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/configparser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DAY1_15/test_001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="155" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_1/config/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_1/dricver/test_001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MODULE/MOD_configparser/test.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MODULE/MOD_configparser/example.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MODULE/MOD_configparser/test_002.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MODULE/MOD_configparser/test_001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_2/get_time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1507742826/time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="67" column="68" lean-forward="true" selection-start-line="67" selection-start-column="44" selection-end-line="67" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/time.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="76" column="4" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1507742826/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="5028" column="17" selection-start-line="5018" selection-start-column="4" selection-end-line="5028" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SELENIUM__project/test_02.py" />
-    <entry file="file://$PROJECT_DIR$/SELENIUM__project/test009.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/remote/webelement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="70" column="67" selection-start-line="70" selection-start-column="66" selection-end-line="70" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_3/test_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="33" column="71" lean-forward="true" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MODULE/MOD_time/Test_001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/logging/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="1775" column="52" selection-start-line="1775" selection-start-column="52" selection-end-line="1775" selection-end-column="52" />
-          <folding>
-            <element signature="e#1189#1256#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1507742826/nt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="211" column="11" selection-start-line="211" selection-end-line="212" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test11.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Logs/202107052055.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Logs/202107061934.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Logs/202107061941.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="47" selection-start-column="47" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Logs/202107061942.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="e#15#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/test.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/test_log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding>
-            <element signature="e#15#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Logs/202107062011.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/test_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/logger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="19" selection-start-line="19" selection-end-line="24" selection-end-column="33" />
-          <folding>
-            <element signature="e#48#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/test_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Logs/202107061942.log" />
+    <entry file="file://$PROJECT_DIR$/test/a.py" />
+    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/test_log.py" />
+    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/logger.py" />
     <entry file="file://$PROJECT_DIR$/SELENIUM__project/说明.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -672,21 +507,216 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Logs/202107062011.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/test_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SELENIUM__project/Test_4/test.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/basePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit_test/unittest_test.md" />
+    <entry file="file://$PROJECT_DIR$/Automation_demo/pageobjects/Logs/202107192053.log" />
+    <entry file="file://$PROJECT_DIR$/Automation_demo/pageobjects/Logs/202107201133.log" />
+    <entry file="file://$PROJECT_DIR$/Automation_demo/pageobjects/Logs/202107201154.log" />
+    <entry file="file://$PROJECT_DIR$/Automation_demo/pageobjects/Logs/202107201151.log" />
+    <entry file="file://$PROJECT_DIR$/Automation_demo/pageobjects/Logs/202107201408.log" />
     <entry file="file://$PROJECT_DIR$/test/logger.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        <state relative-caret-position="189">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MODULE/MOD_configparser/example.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automation_demo/pageobjects/baidu_home_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MODULE/MOD_configparser/test_002.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <marker date="1625571245397" expanded="true" signature="81:852" ph="..." />
+            <element signature="e#144#163#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MODULE/MOD_configparser/test.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MODULE/MOD_configparser/test_001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automation_demo/framework/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automation_demo/framework/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automation_demo/pageobjects/Logs/202107201414.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automation_demo/pageobjects/Logs/202107201425.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automation_demo/testsuites/baidu_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automation_demo/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automation_demo/framework/Logs/202107201954.log" />
+    <entry file="file://$PROJECT_DIR$/Automation_demo/framework/Logs/202107201952.log" />
+    <entry file="file://$PROJECT_DIR$/Automation_demo/framework/Logs/202107201948.log" />
+    <entry file="file://$PROJECT_DIR$/Automation_demo/framework/Logs/202107201940.log" />
+    <entry file="file://$PROJECT_DIR$/Automation_demo/framework/Logs/202107201751.log" />
+    <entry file="file://$PROJECT_DIR$/Automation_demo/framework/base_page.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Automation_demo/framework/browser_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit_test/test_4.py" />
+    <entry file="file://$PROJECT_DIR$/unit_test/test_3.py" />
+    <entry file="file://$PROJECT_DIR$/unit_test/test_2.py" />
+    <entry file="file://$PROJECT_DIR$/unit_test/test_1.py" />
+    <entry file="file://$PROJECT_DIR$/Practice/unit_test/test_2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/unit_test/test_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/practice_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/test_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="46" />
+        <state relative-caret-position="351">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="33" column="61" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/urllib3/connectionpool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="895">
+          <caret line="444" selection-start-line="444" selection-end-line="444" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/practice_001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YUNXI_mix/XHS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding>
+            <element signature="e#22#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YUNXI_mix/KS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="e#22#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YUNXI_mix/bbb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YUNXI_mix/aa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
